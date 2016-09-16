@@ -10,7 +10,7 @@ Install rclone if uninstalled or update available
 Can use Go to do this automatically
 
 check for new backups
-clone backups to Google Drive with rclone :http://wiki.linuxquestions.org/wiki/Rsync_with_Google_Drive
+clone backups to Google Drive with rclone: http://wiki.linuxquestions.org/wiki/Rsync_with_Google_Drive
 check if too many backups from a single VM
 check if too many backups total
 delete if too many backups from VM
